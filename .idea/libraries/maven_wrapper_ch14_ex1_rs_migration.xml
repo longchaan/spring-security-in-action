@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="maven-wrapper-ch14-ex1-rs-migration">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/ssia-ch14-ex1-rs-migration/.mvn/wrapper/maven-wrapper.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

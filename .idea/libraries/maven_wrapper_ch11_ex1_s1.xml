@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="maven-wrapper-ch11-ex1-s1">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/ssia-ch11-ex1-s1/.mvn/wrapper/maven-wrapper.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
