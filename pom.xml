@@ -40,6 +40,7 @@
 
 	<modules>
 		<module>ssia-ch2-ex1</module>
+		<module>ssia-ch2-ex2</module>
 	</modules>
 
 </project>
