@@ -39,6 +39,7 @@
 	</profiles>
 
 	<modules>
+		<module>ssia-ch2-ex1</module>
 	</modules>
 
 </project>
