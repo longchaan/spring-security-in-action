@@ -41,6 +41,8 @@
 	<modules>
 		<module>ssia-ch2-ex1</module>
 		<module>ssia-ch2-ex2</module>
+		<module>ssia-ch2-ex3</module>
+		<module>ssia-ch2-ex4</module>
 	</modules>
 
 </project>
